@@ -1,0 +1,14 @@
+Collaboration Network Metrics:
+==============================
+Density: 0.40825035561877665
+Average Degree: 15.105263157894736
+Clustering Coefficient: 0.60384409137073
+Average Shortest Path Length: 1.5945945945945945
+
+
+Conflict Network Metrics:
+=========================
+Density: 0.11097560975609756
+Average Degree: 4.439024390243903
+Clustering Coefficient: 0.0
+Average Shortest Path Length: 1.9170731707317072
